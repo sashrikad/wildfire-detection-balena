@@ -21,7 +21,7 @@ bme680.sea_level_pressure = 1013.25
 # separate temperature sensor to calibrate this one.
 temperature_offset = 0
 
-
+# Get the token from Ubidots website
 UBIDOT_TOKEN = os.environ['UBIDOT_TOKEN']
 DEVICE_LABEL = 'RPI-BME680'
 

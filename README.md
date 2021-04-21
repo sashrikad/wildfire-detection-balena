@@ -24,6 +24,6 @@ I built a wildfire detection device that will predict if a wildfire will happen 
 
 
 ### If I had more time
-Then I would have added Machine Learning. The reason why it would have been much more efficient with Machine Learning is because instead of having to write hundreds of if else logics, all you have to do is get sample data and you can be able to label them for different things. For example, for one set of data you could label it based on how the data is being represented. The data would have also been more precise than just giving hard code data.
+Then I would have added Machine Learning. The reason why it would have been much more efficient with Machine Learning is because instead of having to write hundreds of if-else logics, all you have to do is get sample data and you can be able to label them for different things. For example, for one set of data you could label it based on how the data is being represented. The data would have also been more precise than just giving hard code data.
 
 ![IMG_4167](https://user-images.githubusercontent.com/82982009/115631561-13917b80-a2d4-11eb-9f68-062bac7c238d.jpg)
